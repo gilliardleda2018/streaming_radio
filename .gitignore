@@ -1,0 +1,18 @@
+# Credenciais e configuracao local
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.tfstate
+*.tfstate.*
+.terraform/
+credentials*
+secrets/
+backups/
+media/
+music/
+*.sql
+*.db
+.DS_Store
